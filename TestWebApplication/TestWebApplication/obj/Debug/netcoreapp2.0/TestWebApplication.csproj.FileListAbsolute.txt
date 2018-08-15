@@ -1,0 +1,12 @@
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.deps.json
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.runtimeconfig.json
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.runtimeconfig.dev.json
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.dll
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\bin\Debug\netcoreapp2.0\TestWebApplication.pdb
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.csproj.CoreCompileInputs.cache
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.AssemblyInfoInputs.cache
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.AssemblyInfo.cs
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.dll
+C:\Users\shahin\source\repos\TestProject\TestWebApplication\TestWebApplication\obj\Debug\netcoreapp2.0\TestWebApplication.pdb
